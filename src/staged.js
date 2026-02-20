@@ -6,4 +6,3 @@ export function staged() {
   console.log("I am Staged");
   console.log(add(1, 2));
 }
-
