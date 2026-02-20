@@ -1,0 +1,15 @@
+# CODEOWNERS – replace @your-username with your GitHub username or @org/team-name
+# Last matching pattern wins. These owners will be requested for review on PRs that touch these paths.
+
+# Default: everything in the repo
+* @Mustafaguzel2
+
+# Source code
+# /src/ @your-username
+
+# Documentation and config at root
+# /README.md @your-username
+# /.gitignore @your-username
+
+# Specific code language
+# .js @your-username
